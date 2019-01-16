@@ -1,4 +1,4 @@
-# Robot-project-2nd-year-univ
+# Robot-remote-controlled
 Hello everyone, I propose you my code which I develop during my project, here we use Arduino Romeo V 2.2 its same microprocessor than a Arduino Leonardo.
 
 During our 1st semester of 2nd year of university , we develop a controler on andrid to drive the robot , then we add an automaticly mod which use
